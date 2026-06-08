@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Mazen
 
-<!--
-**Mazenbimbo/Mazenbimbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm a software engineer with a deep interest in offensive security and open source development 
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+[████████████████░░] Fullstack Development
+[████████░░░░░░░░░░] Machine Learning
+[████████████░░░░░░] Offensive Security
+```
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- C#
+- C++
+- SQL
+- Bash
+  
+### Tools
+- Linux
+- Git
+- Docker
+- Burp Suite
+
+You can reach me on my LinkedIn : https://www.linkedin.com/in/mazen-mohammed-b26b40275
