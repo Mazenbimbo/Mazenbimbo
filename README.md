@@ -1,8 +1,10 @@
-# Hi there 👋, I'm Mazen
+# Hello world, I'm Mazen
 
 > <span style='color:yellow'><b>I'm a software engineer with a deep interest in offensive security and open source development</b></span>
 
-## 🚀 Interest Areas
+# Here is some information about me 
+
+## Areas of Interest 
 
 ```text
 [████████████████░░] Fullstack Development
