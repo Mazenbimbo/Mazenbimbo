@@ -2,7 +2,7 @@
 
 > I'm a software engineer with a deep interest in offensive security and open source development 
 
-## 🚀 Current Focus
+## 🚀 Interest Areas
 
 ```text
 [████████████████░░] Fullstack Development
