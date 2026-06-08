@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Mazen
 
-> I'm a software engineer with a deep interest in offensive security and open source development 
+> <span style='color:yellow'><b>I'm a software engineer with a deep interest in offensive security and open source development</b></span>
 
 ## 🚀 Interest Areas
 
 ```text
 [████████████████░░] Fullstack Development
-[████████░░░░░░░░░░] Machine Learning
 [████████████░░░░░░] Offensive Security
+[████████░░░░░░░░░░] Machine Learning
 ```
 
 ## 🛠 Tech Stack
@@ -25,4 +25,4 @@
 - Docker
 - Burp Suite
 
-You can reach me on my LinkedIn : https://www.linkedin.com/in/mazen-mohammed-b26b40275
+Contact : [LinkedIn](https://www.linkedin.com/in/mazen-mohammed-b26b40275)
